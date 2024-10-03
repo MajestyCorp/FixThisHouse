@@ -7,3 +7,9 @@ I will provide here some examples of my code and how it looks and what features 
 
 ## Beautiful level transition
 ![2024-09-26 news1](https://github.com/user-attachments/assets/1c13de14-2a55-4422-ae91-6cb19cb0c882)
+
+## fun interaactive things
+![hydrant](https://github.com/user-attachments/assets/5f36e4d1-4c08-45d8-9a69-2c193435527d)
+
+## sweet animations
+![demolish](https://github.com/user-attachments/assets/e294502d-80c3-43b2-a459-4506702cfb5e)
