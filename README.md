@@ -1,7 +1,9 @@
 # FixThisHouse
+Play Demo on Steam: [Fix This House](https://store.steampowered.com/app/2996860/Fix_This_House/)
 I will provide here some examples of my code and how it looks and what features my game have<br>
 
-## Dynamic Mesh Shatter
+## Dynamic Mesh Shatter 
+This was removed from the demo but exist in the game<br>
 [Scripts](https://github.com/MajestyCorp/FixThisHouse/tree/main/DynamicShatterMesh)<br>
 ![dyn_block_shatter](https://github.com/user-attachments/assets/2b1132b8-bcd8-4a0a-ba6a-78ca0fef20e0)<br><br>
 
