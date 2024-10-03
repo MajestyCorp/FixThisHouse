@@ -14,5 +14,8 @@ No external libraries. Only Coroutines, AnimationCurves & ScriptableObjects<br>
 ## fun interactive things
 ![hydrant](https://github.com/user-attachments/assets/5f36e4d1-4c08-45d8-9a69-2c193435527d)
 
+## Snow slowly cover all blocks
+![movie_360](https://github.com/user-attachments/assets/1aa45b98-d7c6-4962-b0ec-a730746440d5)
+
 ## sweet animations
 ![demolish](https://github.com/user-attachments/assets/e294502d-80c3-43b2-a459-4506702cfb5e)
