@@ -8,9 +8,10 @@ This was removed from the demo but exist in the game<br>
 ![dyn_block_shatter](https://github.com/user-attachments/assets/2b1132b8-bcd8-4a0a-ba6a-78ca0fef20e0)<br><br>
 
 ## Beautiful level transition
+No external libraries. Only Coroutines, AnimationCurves & ScriptableObjects<br>
 ![2024-09-26 news1](https://github.com/user-attachments/assets/1c13de14-2a55-4422-ae91-6cb19cb0c882)
 
-## fun interaactive things
+## fun interactive things
 ![hydrant](https://github.com/user-attachments/assets/5f36e4d1-4c08-45d8-9a69-2c193435527d)
 
 ## sweet animations
